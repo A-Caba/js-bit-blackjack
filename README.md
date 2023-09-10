@@ -11,3 +11,23 @@ Pasos para ejecutar proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+
+## Comandos útiles de Git
+
+01. git init
+02. git add .
+03. git reset .
+04. git commit (-m "Primer commit")
+05. git checkout -- .
+06. git log
+07. git commit --amend
+08. git checkout -b rama-heroes
+09. git checkout master
+10. git merge rama-heroes
+11. git branck -d rama-heroes
+12. git push
+12. git commit -am
+
+
+
+
